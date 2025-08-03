@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/xianyu_prj/RAMcnt
+T_opt
+!s110 1754200513
+V_EZ0a4KZ`e3[@NYePEI>a2
+04 13 4 work async_fifo_tb fast 0
+=3-06264342a2f8-688ef9c0-12b-5c14
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vasync_fifo
+Z1 !s110 1754200510
+!i10b 1
+!s100 `cljld0Y6N:JP=6VKJB9F0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU]bC^b_c53kaoo3XL@?gL1
+Z3 dD:/fpvproject/FIFO/sim
+w1754200506
+8D:/fpvproject/FIFO/async_fifo.v
+FD:/fpvproject/FIFO/async_fifo.v
+!i122 32
+L0 1 176
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1754200510.000000
+!s107 D:/fpvproject/FIFO/async_fifo.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/fpvproject/FIFO/async_fifo.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vasync_fifo_tb
+R1
+!i10b 1
+!s100 <X5kFf?`cOIaaTmg4jmPR3
+R2
+IFVLPS6K>zh2RYE2]oS0D>1
+R3
+w1754147287
+8D:/fpvproject/FIFO/tb_async.v
+FD:/fpvproject/FIFO/tb_async.v
+!i122 33
+L0 3 124
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/fpvproject/FIFO/tb_async.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/fpvproject/FIFO/tb_async.v|
+!i113 0
+R7
+R0
